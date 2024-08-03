@@ -9,8 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.6.0",
+    "next": "14.2.5",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.5"
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "bootstrap-material-design": "^4.1.3",
+    "mdb-react-ui-kit": "^8.0.0"
   }
 }
